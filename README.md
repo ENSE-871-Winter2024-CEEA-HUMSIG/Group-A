@@ -4,6 +4,8 @@ ENSE871 Project to Re-Design the AEEC / SIG website
 
 [ChangeLog](https://github.com/PixelsOdyssey/ENSE871_Project/blob/main/CHANGELOG.md)
 
+Check out our working progress [here](https://github.com/orgs/PixelsOdyssey/projects/1/views/1).
+
 ## Team Members
 
 - Purvesh Dineshbhai Patel
