@@ -1,3 +1,6 @@
+### 01 Mar 2024 Updates
+ - [ Modified ] [User Story Map](https://github.com/PixelsOdyssey/ENSE871_Project/blob/main/User_Stroy_Map/USM_Mar01_Updated.pdf)
+
 ### 16 Feb 2024 Updates
 - [ New ] [Site Maps](https://github.com/PixelsOdyssey/ENSE871_Project/tree/main/Designing_Phase/Site_Maps)
 - [ New ] [Prototype Documentation](https://github.com/PixelsOdyssey/ENSE871_Project/blob/main/Designing_Phase/Prototype_Documentation/Prototypes_Documentation.pdf)
